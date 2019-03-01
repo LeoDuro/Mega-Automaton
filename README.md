@@ -1,4 +1,4 @@
-# Mega-Automaton/n
+# Mega-Automaton
 Ky program sherben per konvertimin e automateve:
  1. e-Afjd -> Afjd -> Afd -> Afd(minimal) -> testim stringu.
  2. Afjd -> Afd -> Afd(minimal) -> testim stringu.
