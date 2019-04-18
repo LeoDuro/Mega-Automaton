@@ -12,7 +12,7 @@
 #ifndef JoDeterminist_hpp
 #define JoDeterminist_hpp
 
-#include "Automat.hpp"
+#include "../Automat.hpp"
 
 class Jodeterminist : public Automat {
 protected:
