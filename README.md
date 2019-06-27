@@ -1,4 +1,6 @@
 # Mega-Automaton
+Language Theory / Automata Theory
+
 Ky program sherben per konvertimin e automateve:
  1. e-Afjd -> Afjd -> Afd -> Afd(minimal) -> testim stringu.
  2. Afjd -> Afd -> Afd(minimal) -> testim stringu.
